@@ -1,0 +1,15 @@
+E:\HomeWorkS1\exercise_9\bin\Debug\net6.0\exercise_9.exe
+E:\HomeWorkS1\exercise_9\bin\Debug\net6.0\exercise_9.deps.json
+E:\HomeWorkS1\exercise_9\bin\Debug\net6.0\exercise_9.runtimeconfig.json
+E:\HomeWorkS1\exercise_9\bin\Debug\net6.0\exercise_9.dll
+E:\HomeWorkS1\exercise_9\bin\Debug\net6.0\exercise_9.pdb
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.csproj.AssemblyReference.cache
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.AssemblyInfoInputs.cache
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.AssemblyInfo.cs
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.csproj.CoreCompileInputs.cache
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.dll
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\refint\exercise_9.dll
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.pdb
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\exercise_9.genruntimeconfig.cache
+E:\HomeWorkS1\exercise_9\obj\Debug\net6.0\ref\exercise_9.dll
