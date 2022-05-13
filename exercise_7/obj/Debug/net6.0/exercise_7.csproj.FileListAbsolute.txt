@@ -1,0 +1,15 @@
+E:\HomeWorkS1\exercise_7\bin\Debug\net6.0\exercise_7.exe
+E:\HomeWorkS1\exercise_7\bin\Debug\net6.0\exercise_7.deps.json
+E:\HomeWorkS1\exercise_7\bin\Debug\net6.0\exercise_7.runtimeconfig.json
+E:\HomeWorkS1\exercise_7\bin\Debug\net6.0\exercise_7.dll
+E:\HomeWorkS1\exercise_7\bin\Debug\net6.0\exercise_7.pdb
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.csproj.AssemblyReference.cache
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.AssemblyInfoInputs.cache
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.AssemblyInfo.cs
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.csproj.CoreCompileInputs.cache
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.dll
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\refint\exercise_7.dll
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.pdb
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\exercise_7.genruntimeconfig.cache
+E:\HomeWorkS1\exercise_7\obj\Debug\net6.0\ref\exercise_7.dll
